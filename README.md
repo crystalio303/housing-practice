@@ -17,4 +17,4 @@ What was view? Other people thought it was number of views a house looked out on
 Not as many houses built with waterfront from 1980 to 2000 when there was an increase in houses being built.
 ![image](https://user-images.githubusercontent.com/66132013/195214532-bf97746c-39f9-4782-b3a3-ece5c3c1b9d4.png)
 
-I was interested in waterfront with an unexplored part in views whose environment focus was relevant my interest.
+I was interested in waterfront with an unexplored part in views whose environment focus was relevant my interest. When looking up trends, someone told me that feature engineering would help explain dual trends such as more expensive or less expensive properties with waterfront.
